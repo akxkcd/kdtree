@@ -31,4 +31,4 @@ main.cpp
 Tester.h // runs and compares result against brute force method. 
 testTree.py // Generates sample datapoints
 
-kdtree.pdf contain the report for this exercise.
+kdtree.pdf contain the report.
